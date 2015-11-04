@@ -16,7 +16,7 @@ $.lang.data["net.phantombot.common.whisper-enabled"] = "[Режим личных
 // Warning: Make sure each line contains 10 items total; 0 through 9.
 // Order: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9].
 $.lang.data["net.phantombot.common.ordinal-prefixes"] = ["","","","", "", "", "", "", "", ""];
-$.lang.data["net.phantombot.common.ordinal-suffixes"] = ["th","st","nd","rd", "th", "th", "th", "th", "th", "th"];
+$.lang.data["net.phantombot.common.ordinal-suffixes"] = ["-й,"-й","-й","-й", "-й", "-й", "-й", "-й", "-й", "-й"];
 
 // To translate the time prefixes or suffixes, edit the lines below. This is used for both a single w/d/h/m and multiple w/d/h/m.
 // Warning: Make sure each line contains 4 items total; w, d, h, m.
