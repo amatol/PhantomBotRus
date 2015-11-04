@@ -1,8 +1,8 @@
 //lang.js
-$.lang.data["net.phantombot.lang.not-exists"] = "!!! Missing string in lang file !!!";
-$.lang.data["net.phantombot.lang.lang-not-exists"] = "That language file does not exist!";
-$.lang.data["net.phantombot.lang.lang-changed"] = "Changed language to $1!";
-$.lang.data["net.phantombot.lang.curlang"] = "The current language is $1!";
+$.lang.data["net.phantombot.lang.not-exists"] = "!!! Отсутствует строка в языковом файле !!!";
+$.lang.data["net.phantombot.lang.lang-not-exists"] = "Этот языковой файл не сущетсвует!";
+$.lang.data["net.phantombot.lang.lang-changed"] = "Язык изменен на $1!";
+$.lang.data["net.phantombot.lang.curlang"] = "Текущий язык $1!";
 
 //common
 $.lang.data["net.phantombot.common.enabled"] = "enabled";
