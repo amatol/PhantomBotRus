@@ -22,15 +22,15 @@ $.lang.data["net.phantombot.common.ordinal-suffixes"] = ["-й,"-й","-й","-й",
 // Warning: Make sure each line contains 4 items total; w, d, h, m.
 // Order: [w, d, h, m].
 $.lang.data["net.phantombot.common.time-prefixes"] = ["","","",""];
-$.lang.data["net.phantombot.common.time-suffixes"] = ["w","d","h","m"];
+$.lang.data["net.phantombot.common.time-suffixes"] = ["н","д","ч","м"];
 
 //command perm/price
-$.lang.data["net.phantombot.cmd.noperm"] = "Your user group, $1, does not have permission to use the command $2.";
-$.lang.data["net.phantombot.cmd.needpoints"] = "That command costs $1, which you don't have.";
-$.lang.data["net.phantombot.cmd.paid"] = "[Paid] $1's balance is now: $2";
-$.lang.data["net.phantombot.cmd.casteronly"] = "Only a Caster has access to that command!";
-$.lang.data["net.phantombot.cmd.adminonly"] = "Only an Administrator has access to that command!";
-$.lang.data["net.phantombot.cmd.modonly"] = "Only a Moderator has access to that command!";
+$.lang.data["net.phantombot.cmd.noperm"] = "Ваша пользовательская группа, $1, не имеет прав использовать комманду $2.";
+$.lang.data["net.phantombot.cmd.needpoints"] = "Эта команда стоит $1, у Вас недостаточно средств.";
+$.lang.data["net.phantombot.cmd.paid"] = "[Оплачено] $1 текущий баланс: $2";
+$.lang.data["net.phantombot.cmd.casteronly"] = "Только владелец имеет доступ к этой команде!";
+$.lang.data["net.phantombot.cmd.adminonly"] = "Только администратор имеет доступ к этой команде!";
+$.lang.data["net.phantombot.cmd.modonly"] = "Только модератор имеет доступ к этой команде!";
 
 //init.js
 $.lang.data["net.phantombot.init.cmsgset"] = "Connected message set!";
