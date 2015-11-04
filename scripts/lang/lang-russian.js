@@ -5,12 +5,12 @@ $.lang.data["net.phantombot.lang.lang-changed"] = "Язык изменен на 
 $.lang.data["net.phantombot.lang.curlang"] = "Текущий язык $1!";
 
 //common
-$.lang.data["net.phantombot.common.enabled"] = "enabled";
-$.lang.data["net.phantombot.common.disabled"] = "disabled";
-$.lang.data["net.phantombot.common.err-user"] = "You must specify a user to target with this command";
-$.lang.data["net.phantombot.common.user-404"] = "The user \"$1\" has not visited this channel yet.";
-$.lang.data["net.phantombot.common.whisper-disabled"] = "[Whisper Mode] has been disabled.";
-$.lang.data["net.phantombot.common.whisper-enabled"] = "[Whisper Mode] has been enabled.";
+$.lang.data["net.phantombot.common.enabled"] = "включен";
+$.lang.data["net.phantombot.common.disabled"] = "выключен";
+$.lang.data["net.phantombot.common.err-user"] = "Вы должны определить пользователя для этой команды";
+$.lang.data["net.phantombot.common.user-404"] = "Пользователь \"$1\" ещё не посещал этот канал.";
+$.lang.data["net.phantombot.common.whisper-disabled"] = "[Режим личных сообщений] был выключен.";
+$.lang.data["net.phantombot.common.whisper-enabled"] = "[Режим личных сообщений] был включен.";
 
 // To translate the ordinal number prefixes or suffixes, edit the lines below.
 // Warning: Make sure each line contains 10 items total; 0 through 9.
