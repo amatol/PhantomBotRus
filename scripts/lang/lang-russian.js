@@ -72,17 +72,17 @@ $.lang.data["net.phantombot.permissions.group-current-self"] = "$1, Вы в гр
 $.lang.data["net.phantombot.permissions.group-current-other"] = "$1 в данный момент в группе $2.";
 $.lang.data["net.phantombot.permissions.group-list"] = "Группы: $1";
 $.lang.data["net.phantombot.permissions.group-usage"] = "Использование: !group, !group <name>, !group set <name> <group>, !group list, !group name <id> <new name>";
-$.lang.data["net.phantombot.permissions.group-name-err-default"] = "Default group names cannot be changed!";
-$.lang.data["net.phantombot.permissions.group-name"] = "Changed group '$1' to '$2'!";
+$.lang.data["net.phantombot.permissions.group-name-err-default"] = "Стандартное название группы не может быть изменено!";
+$.lang.data["net.phantombot.permissions.group-name"] = "Изменена группа '$1' на '$2'!";
 $.lang.data["net.phantombot.permissions.users"] = "Users in channel: ";
 $.lang.data["net.phantombot.permissions.mods"] = "Mods in channel: ";
 $.lang.data["net.phantombot.permissions.admins"] = "Admins in channel: ";
 
 //commandList.js
-$.lang.data["net.phantombot.commandlist.commands"] = "Commands";
-$.lang.data["net.phantombot.commandlist.page"] = " page $1 of $2 ";
+$.lang.data["net.phantombot.commandlist.commands"] = "Команды";
+$.lang.data["net.phantombot.commandlist.page"] = " страница $1 из $2 ";
 $.lang.data["net.phantombot.commandlist.more"] = " >> Type '!botcommands 2, 3 etc... for more";
-$.lang.data["net.phantombot.commandlist.nocommands"] = "There are currently no commands available to you";
+$.lang.data["net.phantombot.commandlist.nocommands"] = "В данный момент отсутствуют доступные Вам команды";
 $.lang.data["net.phantombot.commandlist.commands-per-page"] = "There will now be $1 commands per page when using !botcommands";
 $.lang.data["net.phantombot.commandlist.commands-per-page-usage"] = "Usage: !commandsperpage <number no less than 10>";
 
@@ -90,8 +90,8 @@ $.lang.data["net.phantombot.commandlist.commands-per-page-usage"] = "Usage: !com
 $.lang.data["net.phantombot.chatmoderator.purged"] = " [Purged]";
 $.lang.data["net.phantombot.chatmoderator.banned"] = " [Banned]";
 $.lang.data["net.phantombot.chatmoderator.timedout"] = " [Timed Out ($1)]";
-$.lang.data["net.phantombot.chatmoderator.whitelist-add"] = "The URL $1 has been added to the whitelist!";
-$.lang.data["net.phantombot.chatmoderator.whitelist-usage"] = "Usage: !whitelist <link>";
+$.lang.data["net.phantombot.chatmoderator.whitelist-add"] = "Ссылка $1 была добавлена в белый список!";
+$.lang.data["net.phantombot.chatmoderator.whitelist-usage"] = "Использование: !whitelist <link>";
 $.lang.data["net.phantombot.chatmoderator.forgive"] = "Reduced $1 to $2 strike(s)!";
 $.lang.data["net.phantombot.chatmoderator.increase"] = "Increased $1 to $2 strike(s)!";
 $.lang.data["net.phantombot.chatmoderator.permit"] = "$1 is permitted to post a link during the next $2 seconds!";
