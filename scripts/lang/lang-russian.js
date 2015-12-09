@@ -1,3 +1,4 @@
+
 //lang.js
 $.lang.data["net.phantombot.lang.not-exists"] = "!!! Отсутствует строка в языковом файле !!!";
 $.lang.data["net.phantombot.lang.lang-not-exists"] = "Этот языковой файл не сущетсвует!";
