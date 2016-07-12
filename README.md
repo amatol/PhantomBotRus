@@ -5,6 +5,6 @@
 
 Авторы программы - http://www.phantombot.net/
 
-Гайд по настройке - http://www.phantombot.net/threads/setup-guide.7/
+Гайд по настройке - https://community.phantombot.net/category/18/how-to-guides/
 
-Гайд по командам - http://www.phantombot.net/threads/command-list-by-script.13/
+Гайд по командам - https://phantombot.net/commands/
